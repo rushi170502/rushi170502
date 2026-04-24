@@ -28,24 +28,25 @@
 
 I’m a curious and motivated developer with a strong passion for building smooth, scalable, and meaningful mobile apps using **Flutter** and **Dart**. Currently working as a **Trainee Software Engineer at Pixel6 Web Studio**, I continuously thrive on improving my technical skill set, clean code practices, and problem solving abilities.
 
-- 🔭 Working at **Tata Consultancy Services ** as a Java Developer.  
+- 🔭 Working at ** Tata Consultancy Services ** as a Java Developer.  
 - 🌱 Leveling up in **Java**, **SpringBoot**, and modern Application Development. 
 - 🎓 Graduated in **Information Technology (B.E.)**, 2024.  
 - 💻 Love Application designing .  
-- 📫 Reach me at: [rushikeshbirari05@gmail.com](rushikeshbirari05@gmail.com)
+- 📫 Reach out to me: [rushikeshbirari05@gmail.com](rushikeshbirari05@gmail.com)
 
 ---
 
 ## <div id="#">🛠️ Tech Stack </div>
 
 ### 🧰 Languages & Frameworks  
+<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c&logoColor=white"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a> &nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a> &nbsp;
+
 
 
 ### 💾 Databases & Tools  
@@ -58,13 +59,13 @@ I’m a curious and motivated developer with a strong passion for building smoot
 <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/></a> &nbsp;
 
-## 🎯 State Management  
+<!-- ## 🎯 State Management  
 <a href="#"><img src="https://img.shields.io/badge/Provider-3F51B5?style=flat&logo=flutter&logoColor=white"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/GetX-D00000?style=flat&logo=flutter&logoColor=white"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/BLoC-2D9CDB?style=flat&logo=flutter&logoColor=white"/></a> &nbsp;
 
----
+-->
 
 ## 📂 Featured Projects
 
@@ -94,9 +95,9 @@ A Java desktop app to manage bike garage operations like servicing, booking, and
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pavan0209&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Pavan's GitHub Stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rushi170502&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Rushi's GitHub Stats" width="420" />
   
-  <img src="https://streak-stats.demolab.com?user=pavan0209&theme=radical&hide_border=false" alt="Pavan's GitHub Streak" width="400" />
+  <img src="https://streak-stats.demolab.com?user=rushi170502&theme=radical&hide_border=false" alt="Rushi's GitHub Streak" width="400" />
 
 </div>
 
@@ -105,7 +106,7 @@ A Java desktop app to manage bike garage operations like servicing, booking, and
 
 ## 🌱 Currently Learning
 
-- 🚀 Deepening knowledge in advanced Flutter architecture, design patterns and state managements.  
+- 🚀 Deepening knowledge in advanced Java, Micro architecture, system design.
 - 🧩 Exploring API testing with **Postman**  
 - 🛡️ Learning clean code practices and scalable project structuring
 
@@ -113,7 +114,7 @@ A Java desktop app to manage bike garage operations like servicing, booking, and
 
 ## 🤝 Let's Connect
 
-Feel free to connect or collaborate on exciting Flutter projects, open-source contributions, or tech discussions!
+Feel free to connect or collaborate on exciting java projects, open-source contributions, or tech discussions!
 
 <br>
 
@@ -121,9 +122,9 @@ Feel free to connect or collaborate on exciting Flutter projects, open-source co
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan%20S-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pavansonawane0209/) &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Pavan%20Sonawane-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pavanasonawane@gmail.com) &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-pavan0209-black?style=flat&logo=github)](https://github.com/pavan0209)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rushikesh%20S-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rushikesh-birari-89b525235) &nbsp;
+[![Email](https://img.shields.io/badge/Gmail-Rushikesh%20Birari-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rushikeshbirari05@gmail.com) &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-rushi170502-black?style=flat&logo=github)](https://github.com/rushi170502)
 
 </div>
 
