@@ -1,133 +1,118 @@
-<div align="center">
+# 👨‍💻 Rushikesh Birari
 
-# 👋 Hello, I'm <strong>Rushikesh Birari</strong>
-
-###  💡 Passionate Java Developer from India 🇮🇳
-<br>
-
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/rushikesh-birari-89b525235" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-&nbsp;
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-1F8A70?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
----
-</div>
-
-## 🚀 About Me
-
-I’m a curious and motivated developer with a strong passion for building smooth, scalable, and meaningful mobile apps using **Flutter** and **Dart**. Currently working as a **Trainee Software Engineer at Pixel6 Web Studio**, I continuously thrive on improving my technical skill set, clean code practices, and problem solving abilities.
-
-- 🔭 Working at ** Tata Consultancy Services ** as a Java Developer.  
-- 🌱 Leveling up in **Java**, **SpringBoot**, and modern Application Development. 
-- 🎓 Graduated in **Information Technology (B.E.)**, 2024.  
-- 💻 Love Application designing .  
-- 📫 Reach out to me: [rushikeshbirari05@gmail.com](rushikeshbirari05@gmail.com)
+🚀 Backend Engineer | Java | Spring Boot | Microservices | AWS  
+📍 Pune, India  
+📧 rushikeshbirari05@gmail.com  
 
 ---
 
-## <div id="#">🛠️ Tech Stack </div>
+## 🧑‍💼 About Me
+Backend Engineer with 1.5+ years of experience building high-performance, scalable systems using **Java, Spring Boot, Kafka, and AWS**.  
+Strong focus on **low-latency systems, microservices architecture, and distributed systems**.
 
-### 🧰 Languages & Frameworks  
-<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a> &nbsp;
-
-
-
-### 💾 Databases & Tools  
-<a href="#"><img src="https://img.shields.io/badge/Hive-FFB300?style=flat&logo=hive&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/SQFLite-3E3E3E?style=flat&logo=sqlite&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/></a> &nbsp;
-
-<!-- ## 🎯 State Management  
-<a href="#"><img src="https://img.shields.io/badge/Provider-3F51B5?style=flat&logo=flutter&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/GetX-D00000?style=flat&logo=flutter&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/BLoC-2D9CDB?style=flat&logo=flutter&logoColor=white"/></a> &nbsp;
-
--->
-
-## 📂 Featured Projects
-
-🌐 [**Portfolio Website**](https://pavan0209.github.io/portfolio/)  
-A sleek personal portfolio built using Flutter Web to showcase my work and profile.  
-**Key Skills:** Flutter Web, Dart, Responsive Design
-
-💃 [**Shall We Dance**](https://play.google.com/store/apps/details?id=com.pixel6.shallwedance&pcampaignid=web_share)  
-An interactive mobile app celebrating the cultural richness of Indian classical dance through immersive videos and educational content.  
-**Key Skills:** Flutter, Dart, Figma, API Management
-
-☕ [**Brew Crew Firebase**](https://github.com/pavan0209/brew_crew_firebase)  
-A Firebase-integrated app that lets users choose and customize coffee preferences.  
-**Key Skills:** Flutter, Dart, Firebase Auth & Firestore
-
-📱 [**Farmer's Mart**](https://github.com/pavan0209)  
-A modern UI/UX focused e-commerce app for farmers and local produce sellers.  
-**Key Skills:** Flutter, Dart, Custom Widgets, UI/UX
-
-🛠️ [**Biker's Hub**](https://github.com/pavan0209)  
-A Java desktop app to manage bike garage operations like servicing, booking, and billing.  
-**Key Skills:** Java, JavaFX, MySQL
+- 🔭 Currently working at **TCS (MCX Project)**
+- ⚡ Built real-time trading & streaming systems
+- ☁️ AWS Certified Developer & Solutions Architect
 
 ---
 
-## 📊 GitHub Activity
+## 🛠️ Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rushi170502&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Rushi's GitHub Stats" width="420" />
-  
-  <img src="https://streak-stats.demolab.com?user=rushi170502&theme=radical&hide_border=false" alt="Rushi's GitHub Streak" width="400" />
-
-</div>
-
-
----
-
-## 🌱 Currently Learning
-
-- 🚀 Deepening knowledge in advanced Java, Micro architecture, system design.
-- 🧩 Exploring API testing with **Postman**  
-- 🛡️ Learning clean code practices and scalable project structuring
+### 💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
-## 🤝 Let's Connect
+### 🧱 Architecture & Systems
+- Microservices Architecture  
+- REST APIs  
+- Event-Driven Systems  
+- Distributed Systems  
 
-Feel free to connect or collaborate on exciting java projects, open-source contributions, or tech discussions!
+---
 
-<br>
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-<div align="center">
+---
 
-<div align="center">
+### 📡 Streaming & Messaging
+![Kafka](https://img.shields.io/badge/ApacheKafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rushikesh%20S-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rushikesh-birari-89b525235) &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Rushikesh%20Birari-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rushikeshbirari05@gmail.com) &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-rushi170502-black?style=flat&logo=github)](https://github.com/rushi170502)
+---
 
-</div>
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-</div>
+---
 
-</div>
+## 💼 Experience
+
+### 🏢 Tata Consultancy Services (TCS) — Pune  
+**Java Backend Engineer (Oct 2024 – Present)**  
+Project: Multi Commodity Exchange of India (MCX)
+
+- Developed **Spring Boot microservices** for trading systems  
+- Built **low-latency REST APIs** for financial transactions  
+- 🚀 Improved data broadcasting efficiency by **20%**  
+- ⚡ Reduced DB response time by **15%**  
+- Automated CI/CD pipelines using **Jenkins & AWS**  
+- Debugged production issues in real-time trading environment  
+
+---
+
+## 🚀 Projects
+
+### 🛒 Scalable E-Commerce Backend
+- Microservices for user, product, order management  
+- JWT Authentication + RBAC  
+- Deployed on AWS  
+
+---
+
+### 📈 Real-Time Stock Streaming App
+- Event-driven architecture  
+- Kafka for async processing  
+- WebSocket for live updates  
+
+---
+
+## 🎓 Education
+**B.E. Information Technology**  
+NBN Sinhgad School of Engineering, Pune  
+CGPA: 8.8 / 10  
+
+---
+
+## 📜 Certifications
+- 🏅 AWS Certified Solutions Architect – Associate  
+- 🏅 AWS Certified Developer – Associate  
+- 🏅 Oracle Cloud Infrastructure Associate  
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: (Add your link)
+- 💻 GitLab: (Add your link)
+
+---
+
+⭐ *Open to Backend / Software Engineer opportunities*
