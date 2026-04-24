@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm <strong>Rushikesh Birari</strong>
 
-### 💡 Backend Engineer | Java | Microservices | AWS 🇮🇳
+### 💡 Backend Engineer | Java | Microservices | AWS 
 <br>
 
 <a href="#" target="_blank">
@@ -43,9 +43,7 @@ Focused on **low-latency systems, microservices architecture, and distributed sy
 ### 🧰 Languages & Frameworks  
 <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/JPA-59666C?style=flat"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/SQL-025E8C?style=flat"/></a> &nbsp;
 
@@ -58,14 +56,6 @@ Focused on **low-latency systems, microservices architecture, and distributed sy
 <a href="#"><img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonaws&logoColor=white"/></a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/></a> &nbsp;
-
----
-
-### 📡 Streaming & Messaging  
-<a href="#"><img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat&logo=apachekafka&logoColor=white"/></a> &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/WebSocket-010101?style=flat"/></a> &nbsp;
 
 ---
 
