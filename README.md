@@ -1,23 +1,23 @@
 <div align="center">
 
-# 👋 Hello, I'm <strong>Pavan Sonawane</strong>
+# 👋 Hello, I'm <strong>Rushikesh Birari</strong>
 
-###  💡 Passionate Flutter Developer from India 🇮🇳
+###  💡 Passionate Java Developer from India 🇮🇳
 <br>
 
-<a href="https://pavan0209.github.io/portfolio/" target="_blank">
+<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/pavansonawane0209/" target="_blank">
+<a href="https://www.linkedin.com/in/rushikesh-birari-89b525235" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/C2W_Pavan/" target="_blank">
+<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
-<a href="https://www.geeksforgeeks.org/user/pavan0209/" target="_blank">
+<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-1F8A70?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
@@ -28,11 +28,11 @@
 
 I’m a curious and motivated developer with a strong passion for building smooth, scalable, and meaningful mobile apps using **Flutter** and **Dart**. Currently working as a **Trainee Software Engineer at Pixel6 Web Studio**, I continuously thrive on improving my technical skill set, clean code practices, and problem solving abilities.
 
-- 🔭 Working at **Pixel6 Web Studio** as a Trainee Software Engineer.  
-- 🌱 Leveling up in **Flutter**, **Dart**, and modern mobile application design. 
+- 🔭 Working at **Tata Consultancy Services ** as a Java Developer.  
+- 🌱 Leveling up in **Java**, **SpringBoot**, and modern Application Development. 
 - 🎓 Graduated in **Information Technology (B.E.)**, 2024.  
-- 💻 Love crafting modern UI/UX and scalable mobile experiences.  
-- 📫 Reach me at: [pavanasonawane@gmail.com](mailto:pavanasonawane@gmail.com)
+- 💻 Love Application designing .  
+- 📫 Reach me at: [rushikeshbirari05@gmail.com](rushikeshbirari05@gmail.com)
 
 ---
 
